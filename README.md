@@ -1,4 +1,4 @@
-# <img src="app/src/main/ic_launcher-playstore.png" width="60px"> Binnosoko: F*ck ChMate's ads
+# <img src="https://github.com/Chipppppppppp/Binnosoko/blob/custom-nonnonstop/app/src/main/ic_launcher-playstore.png" width="60px"> Binnosoko: F*ck ChMate's ads
 
 [![Latest Release](https://img.shields.io/github/v/release/Chipppppppppp/Binnosoko?label=latest)](https://github.com/Chipppppppppp/Binnosoko/releases/latest)
 ![GitHub License](https://img.shields.io/github/license/Chipppppppppp/Binnosoko)
